@@ -11,6 +11,6 @@ This project analyzes India's Consumer Price Index data to find inflation trends
 - Spices and cereals had the highest category-level correlation with overall inflation.
 
 ## Project Files
-- CPI_Data.xlsx
+- CPI_Inflation_Case_Study.xlsx
 
 
