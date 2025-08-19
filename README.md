@@ -3,8 +3,6 @@ This project analyzes India's Consumer Price Index data to find inflation trends
 
 ## Tools Used
 - Microsoft Excel
-- Data Visualization
-- Correlation & Trend Analysis
 
 ## Key Insights
 - Food and Health categories showed high inflation after COVID.
